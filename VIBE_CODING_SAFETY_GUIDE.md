@@ -1,3 +1,3 @@
-# Vibe Coding Safety Guide
+# Vibe Safe Protocol Guide
 
 Guide for safe AI-assisted coding.
